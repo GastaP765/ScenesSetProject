@@ -20,4 +20,4 @@ def Open():
 def consoleKey():
 	Open()
 
-First()
+Open()
