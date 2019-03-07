@@ -16,6 +16,7 @@ def Open():
 	else:
 		mc.file(s=True)
 		mc.file(path[0], o=True)
+	return
 
 def consoleKey():
 	Open()
