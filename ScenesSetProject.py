@@ -20,5 +20,3 @@ def Open():
 
 def consoleKey():
 	Open()
-
-Open()
